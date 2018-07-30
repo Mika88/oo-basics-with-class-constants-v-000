@@ -17,5 +17,5 @@ class Shoe
     @new_brand = new_brand
     NEW_BRANDS << new_brand
   end
-    
+
 end
