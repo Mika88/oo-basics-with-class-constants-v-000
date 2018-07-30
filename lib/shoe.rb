@@ -15,4 +15,5 @@ class Shoe
   def new_brand=(new_brand)
     @new_brand = new_brand
     BRANDS << new_brand
+  end
 end
