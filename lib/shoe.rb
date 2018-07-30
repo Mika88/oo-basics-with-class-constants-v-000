@@ -3,7 +3,7 @@ class Shoe
   attr_reader :brand, :new_brand
 
   BRANDS = []
-  NEW_BRANDS = []
+
   def initialize(brand)
     @brand = brand
     BRANDS << brand
